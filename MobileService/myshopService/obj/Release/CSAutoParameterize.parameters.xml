@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MS_TableConnectionString-Web.config Connection String" description="MS_TableConnectionString Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=(localdb)\v11.0;AttachDbFilename=|DataDirectory|\aspnet-myshopService-20150227025153.mdf;Initial Catalog=aspnet-myshopService-20150227025153;Integrated Security=True;MultipleActiveResultSets=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Josevi\\Desktop\\myshop_\\myshopService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MS_TableConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="MS_NotificationHubConnectionString-Web.config Connection String" description="MS_NotificationHubConnectionString Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Endpoint=sb://[your namespace].servicebus.windows.net;SharedSecretIssuer=owner;SharedSecretValue=[your secret]" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Josevi\\Desktop\\myshop_\\myshopService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MS_NotificationHubConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

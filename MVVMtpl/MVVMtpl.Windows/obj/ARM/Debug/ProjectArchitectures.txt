@@ -1,0 +1,1 @@
+C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.Windows\MVVMtpl.Windows.csproj;arm

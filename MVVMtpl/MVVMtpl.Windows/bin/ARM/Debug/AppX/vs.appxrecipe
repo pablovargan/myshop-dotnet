@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>XPS-PABLO</Machine>
+    <WindowsUser>Pablo</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>bc9f9fe5-9da6-44f7-96b9-dec79cb86df9</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.Windows\obj\ARM\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>C2A0E398BBE78A0CF39320C4B8EE5A3CA6A88988FEB1EE50B5996AD539E8CBA3</RegisteredManifestChecksum>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.Windows\bin\ARM\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-26T09:37:44.629</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.Windows\bin\ARM\Debug\MVVMtpl.Windows.exe">
+      <PackagePath>MVVMtpl.Windows.exe</PackagePath>
+      <Modified>2015-02-26T09:37:43.298</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+      <Modified>2014-09-26T15:31:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+      <Modified>2014-09-26T15:31:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\packages\MvvmLightLibs.5.0.0.0\lib\netcore451\GalaSoft.MvvmLight.dll">
+      <PackagePath>GalaSoft.MvvmLight.dll</PackagePath>
+      <Modified>2015-01-13T11:39:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\packages\MvvmLightLibs.5.0.0.0\lib\netcore451\GalaSoft.MvvmLight.Extras.dll">
+      <PackagePath>GalaSoft.MvvmLight.Extras.dll</PackagePath>
+      <Modified>2015-01-13T11:39:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\packages\MvvmLightLibs.5.0.0.0\lib\netcore451\GalaSoft.MvvmLight.Platform.dll">
+      <PackagePath>GalaSoft.MvvmLight.Platform.dll</PackagePath>
+      <Modified>2015-01-13T11:39:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+      <Modified>2015-01-13T11:39:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\packages\Unity.3.5.1405-prerelease\lib\win8\Microsoft.Practices.Unity.dll">
+      <PackagePath>Microsoft.Practices.Unity.dll</PackagePath>
+      <Modified>2015-01-13T11:39:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\packages\Unity.3.5.1405-prerelease\lib\win8\Microsoft.Practices.Unity.RegistrationByConvention.dll">
+      <PackagePath>Microsoft.Practices.Unity.RegistrationByConvention.dll</PackagePath>
+      <Modified>2015-01-13T11:39:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\packages\Newtonsoft.Json.6.0.8\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2015-02-24T14:22:04.986</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\SQLite.WinRT81\3.8.8.1\Redist\Debug\ARM\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+      <Modified>2015-02-17T11:48:39.852</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-13T11:39:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-13T11:39:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-13T11:39:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-13T11:39:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.Shared\Assets\microsoft-logo.png">
+      <PackagePath>Assets\microsoft-logo.png</PackagePath>
+      <Modified>2015-02-25T14:00:14.567</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.Windows\bin\ARM\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-02-26T09:37:42.792</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.Windows\bin\ARM\Debug\Views\MainPage.xbf">
+      <PackagePath>Views\MainPage.xbf</PackagePath>
+      <Modified>2015-02-26T09:37:42.793</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.Windows\bin\ARM\Debug\Views\OrdersPage.xbf">
+      <PackagePath>Views\OrdersPage.xbf</PackagePath>
+      <Modified>2015-02-26T09:37:42.796</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.Windows\bin\ARM\Debug\Views\ShopPage.xbf">
+      <PackagePath>Views\ShopPage.xbf</PackagePath>
+      <Modified>2015-02-26T09:37:42.799</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.Windows\bin\ARM\Debug\MVVMtpl.Windows.xr.xml">
+      <PackagePath>MVVMtpl.Windows.xr.xml</PackagePath>
+      <Modified>2015-02-26T09:37:42.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.Windows\bin\ARM\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-02-26T09:37:44.285</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

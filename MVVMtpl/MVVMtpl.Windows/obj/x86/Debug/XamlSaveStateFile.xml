@@ -1,0 +1,24 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactions.dll" HashGuid="95a94f94-3917-d473-4f7c-18c4bd437046" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactivity.dll" HashGuid="d25f59e6-dd81-900a-0dfc-55b39f6898ef" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\pablo\desktop\dotnetspain\packages\mvvmlightlibs.5.0.0.0\lib\netcore451\galasoft.mvvmlight.dll" HashGuid="e1a415ae-3a96-e5eb-14ad-b6d5f4eac9f8" />
+    <ReferenceAssembly PathName="c:\users\pablo\desktop\dotnetspain\packages\mvvmlightlibs.5.0.0.0\lib\netcore451\galasoft.mvvmlight.extras.dll" HashGuid="28bb2089-c7a4-73bb-7a72-1ea8b02698b0" />
+    <ReferenceAssembly PathName="c:\users\pablo\desktop\dotnetspain\packages\mvvmlightlibs.5.0.0.0\lib\netcore451\galasoft.mvvmlight.platform.dll" HashGuid="21a87e0f-7bb8-b669-3d48-2479e169399e" />
+    <ReferenceAssembly PathName="c:\users\pablo\desktop\dotnetspain\packages\microsoft.data.edm.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\microsoft.data.edm.dll" HashGuid="652859ac-63b5-9ab0-7a6b-0cb8dfcd265f" />
+    <ReferenceAssembly PathName="c:\users\pablo\desktop\dotnetspain\packages\microsoft.data.odata.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\microsoft.data.odata.dll" HashGuid="4e84b0db-d22a-61af-6343-dd7cc7f44046" />
+    <ReferenceAssembly PathName="c:\users\pablo\desktop\dotnetspain\packages\commonservicelocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\microsoft.practices.servicelocation.dll" HashGuid="89de7f80-26d8-a17c-5ad9-b855f81ea5b2" />
+    <ReferenceAssembly PathName="c:\users\pablo\desktop\dotnetspain\packages\unity.3.5.1405-prerelease\lib\win8\microsoft.practices.unity.dll" HashGuid="bfbab92e-125a-5b6e-9ddc-f777451b52b9" />
+    <ReferenceAssembly PathName="c:\users\pablo\desktop\dotnetspain\packages\unity.3.5.1405-prerelease\lib\win8\microsoft.practices.unity.registrationbyconvention.dll" HashGuid="51d90060-4c44-273b-debb-8173fa2723a6" />
+    <ReferenceAssembly PathName="c:\users\pablo\desktop\dotnetspain\packages\windowsazure.mobileservices.1.3.1\lib\netcore45\microsoft.windowsazure.mobile.dll" HashGuid="9ae27956-fc25-6346-a044-affad933acd5" />
+    <ReferenceAssembly PathName="c:\users\pablo\desktop\dotnetspain\packages\windowsazure.mobileservices.1.3.1\lib\netcore45\microsoft.windowsazure.mobile.ext.dll" HashGuid="c3fe55d4-dcfc-ac07-236d-f429b050553a" />
+    <ReferenceAssembly PathName="c:\users\pablo\desktop\dotnetspain\packages\windowsazure.storage.4.3.2-preview\lib\win8\microsoft.windowsazure.storage.dll" HashGuid="bfb4410f-a879-0ea7-fa30-51b1db2615f3" />
+    <ReferenceAssembly PathName="c:\users\pablo\desktop\dotnetspain\packages\newtonsoft.json.6.0.8\lib\netcore45\newtonsoft.json.dll" HashGuid="fd3dfcab-cf69-c796-78a2-2423dadb814b" />
+    <ReferenceAssembly PathName="c:\users\pablo\desktop\dotnetspain\packages\sqlite.net-pcl.2.4.1\lib\portable-win8+net45+wp8+wpa81+monoandroid1+monotouch1\sqlite.net.dll" HashGuid="a0c6a78f-d9ae-77fe-ff63-7c66236f199a" />
+    <ReferenceAssembly PathName="c:\users\pablo\desktop\dotnetspain\packages\sqlitenetextensions.1.2.3\lib\portable-net45+netcore45+wpa81+wp8+monoandroid1+monotouch1\sqlitenetextensions.dll" HashGuid="ebb34aca-e11d-cccb-53a4-723be6ed66d6" />
+    <ReferenceAssembly PathName="c:\users\pablo\desktop\dotnetspain\packages\microsoft.net.http.2.2.28\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="c:\users\pablo\desktop\dotnetspain\packages\microsoft.net.http.2.2.28\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="c:\users\pablo\desktop\dotnetspain\packages\system.spatial.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\system.spatial.dll" HashGuid="4e779b7f-3e1d-55d1-cac0-694ae2344f0d" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

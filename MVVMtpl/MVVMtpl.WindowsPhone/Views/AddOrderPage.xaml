@@ -1,0 +1,45 @@
+﻿<Page
+    x:Class="MVVMtpl.Views.AddOrderPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MVVMtpl"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    DataContext="{Binding AddOrderViewModel, Source={StaticResource Locator}}">
+
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton Icon="Add" Label="Añadir" Command="{Binding AddOrderCommand}" />
+        </CommandBar>
+    </Page.BottomAppBar>
+    <Grid Background="#5C005C">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- TitlePanel -->
+        <StackPanel Grid.Row="0" Margin="24,17,0,0">
+            <TextBlock Text="My Shop" Style="{ThemeResource BaseTextBlockStyle}" Typography.Capitals="SmallCaps"/>
+            <TextBlock Text="Añadir pedido" Margin="0,0,0,20" Style="{ThemeResource HeaderTextBlockStyle}"/>
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot">
+            <ScrollViewer>
+                <StackPanel Margin="25,0,25,0">
+                    <TextBox PlaceholderText="enter your subject" Header="Subject" Text="{Binding Subject, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                    <TextBox PlaceholderText="description" Header="Description" Text="{Binding Description, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                </StackPanel>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+</Page>

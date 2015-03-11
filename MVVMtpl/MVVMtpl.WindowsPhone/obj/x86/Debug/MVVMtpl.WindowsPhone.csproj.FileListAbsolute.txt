@@ -1,0 +1,15 @@
+C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.WindowsPhone\obj\x86\Debug\App.g.i.cs
+C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.WindowsPhone\obj\x86\Debug\App.g.cs
+C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.WindowsPhone\obj\x86\Debug\Views\ExamplePage.g.i.cs
+C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.WindowsPhone\obj\x86\Debug\Views\ExamplePage.g.cs
+C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.WindowsPhone\obj\x86\Debug\Views\AddOrderPage.g.i.cs
+C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.WindowsPhone\obj\x86\Debug\Views\AddOrderPage.g.cs
+C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.WindowsPhone\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.WindowsPhone\obj\x86\Debug\App.xaml
+C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.WindowsPhone\obj\x86\Debug\Views\ExamplePage.xaml
+C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.WindowsPhone\obj\x86\Debug\App.xbf
+C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.WindowsPhone\obj\x86\Debug\Views\ExamplePage.xbf
+C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.WindowsPhone\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.WindowsPhone\obj\x86\Debug\MVVMtpl.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.WindowsPhone\obj\x86\Debug\Views\AddOrderPage.xaml
+C:\Users\Pablo\Source\Workspaces\DotNetProject\Project\MVVMtpl\MVVMtpl.WindowsPhone\obj\x86\Debug\Views\AddOrderPage.xbf
